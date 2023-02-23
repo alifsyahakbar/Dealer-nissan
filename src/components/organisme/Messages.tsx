@@ -17,7 +17,7 @@ export default function Messages() {
               className="rounded-full border-2 border-red-800 w-20 lg:w-24"
             ></Image>
             <div className="absolute  bottom-1 bg-slate-200 px-2 right-2 rounded-lg">
-              <h1 className="text-xs">Let's Chat</h1>
+              <h1 className="text-xs">Lets Chat</h1>
             </div>
             <div className="absolute hidden lg:block hover:invisible  -left-36 -z-20 top-7 bg-slate-200 px-4 py-1 rounded-md">
               <h1>Punya pertanyaan?</h1>
